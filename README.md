@@ -1,13 +1,9 @@
 ### Chrome Tabs in Chrome
 
-Exactly what you think this is. Go wild.
+[https://github.com/adamschwartz/chrome-tabs](https://github.com/adamschwartz/chrome-tabs)
+
+Modified by Martin Shaw for use in future UI functionality!
+
+================
 
 Drag-and-drop support provided by [Draggabilly](https://github.com/desandro/draggabilly) by @desandro.
-
-### [Demo](http://adamschwartz.co/chrome-tabs/)
-
-<img width=868 src=http://adamschwartz.co/chrome-tabs/chrome-tabs.gif>
-
-<br><br><br><br><br><br><br><br>
-
-<hr>
